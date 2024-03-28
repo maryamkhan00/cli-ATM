@@ -1,6 +1,6 @@
 {
   "name": "ts10-cli-atm",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "this is a cli based ATM, using typescript, node.js and inquirer.",
   "main": "index.js",
   "type": "module",
@@ -9,7 +9,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "inquirer": "^9.2.16"
   },
